@@ -1,3 +1,6 @@
+
+
+let js = <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <h1>Hello!</h1>
 
 <h2>Welcome to my page, and thanks for passing by</h2>
@@ -10,7 +13,7 @@
 
 <h3>My tools</h3>
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color-glass/48/000000/css.png"/><img src="https://img.icons8.com/color/48/000000/sql.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/cute-clipart/48/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/api.png"/>
+ {js} <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color-glass/48/000000/css.png"/><img src="https://img.icons8.com/color/48/000000/sql.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/cute-clipart/48/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/api.png"/>
 
 <h3>Thank you!</h3>
 
