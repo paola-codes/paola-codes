@@ -3,7 +3,7 @@
 
 <h2>✨ Welcome to my page, and thanks for passing by 😃✨</h2>
 
-<h3>I am Paola, full stack developer from Venezuela, currently living in the United States.</h3>
+<h3>I am Paola, full stack developer from Venezuela, currently working and living in the United States.</h3>
 <h3>I work as a teacher assistant in 4Geeks Academy, where I also mentor other students in different coding subjects.</h3>
 
 <h2>About Me</h2>
