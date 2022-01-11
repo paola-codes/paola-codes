@@ -11,6 +11,8 @@
 <h3>💻 I like to improve my coding skills 📚</h3>
 <h3>🎨 I like to create digital art 🌺</h3>
 <h3>🍰 I love sweets 🍓🍯🍫🍪</h3>
+<h3 Currently working on projects using Python, Bootstrap, Flask, React, and SQL</h3>
+<h3 Looking to collaborate on interesting projects </h3>
 
 <h2>My tools</h2>
 
