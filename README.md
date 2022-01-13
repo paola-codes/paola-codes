@@ -11,8 +11,11 @@
 <h3>💻 I like to improve my coding skills 📚</h3>
 <h3>🎨 I like to create digital art 🌺</h3>
 <h3>🍰 I love sweets 🍓🍯🍫🍪</h3>
-<h3> Currently working on projects using Python, Bootstrap, Flask, React, and SQL</h3>
-<h3> Looking to collaborate on interesting projects </h3>
+<h3>🛠️ Currently working on projects using Python, Bootstrap, Flask, React, and SQL ✍🏽</h3>
+<h3>🤝🏾 Looking to collaborate on interesting projects and connect with more devs 😊</h3>
+
+<h2>My Stats</h2>
+[![Paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=paola-codes&show_icons=true&theme=tokyonight)](https://github.com/paola-codes/github-readme-stats)
 
 <h2>My tools</h2>
 
@@ -30,10 +33,10 @@
 
 <h2>Contact Me</h2>
 
-<h3>my email</h3>
+<h3>paola.sanchezv98@gmail.com</h3>
 
 <a href="https://www.linkedin.com/in/paola-sanchez98/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<h3>Thank you! ❤️</h3>
+<h2>Thank you! ❤️</h2>
 
 
