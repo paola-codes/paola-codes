@@ -19,7 +19,7 @@
 
 <h2>📊 My Stats</h2>
 
-<a>![Paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=paola-codes&show_icons=true&theme=radical)</a>
+<a>![Paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=paola-codes&show_icons=true&theme=synthwave)</a>
 
 <h2>🛠️ My tools</h2>
 
