@@ -1,4 +1,7 @@
 
+
+<a href="https://www.linkedin.com/in/paola-sanchez-5139841b8/">![Header](https://github.com/paola-codes/paola-codes/blob/main/Banner1-Merged.png)</a>
+
 <h1>👩‍💻 Hello!</h1>
 
 <h2>✨ Welcome to my page, and thanks for passing by 😃✨</h2>
