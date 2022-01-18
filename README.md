@@ -1,6 +1,6 @@
 
 
-<a href="https://www.linkedin.com/in/paola-sanchez-5139841b8/">![Header](https://github.com/paola-codes/paola-codes/blob/main/Github-Banner2.png)</a>
+<a href="https://www.linkedin.com/in/paola-sanchez-5139841b8/">![Header](https://github.com/paola-codes/paola-codes/blob/main/Github-Banner.png)</a>
 
 <h1>👩‍💻 Hello!</h1>
 
