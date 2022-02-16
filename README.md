@@ -4,7 +4,7 @@
 
 <h1>👩‍💻 Hello</h1> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%238290FF&height=49&lines=Nice+to+meet+you!)](https://git.io/typing-svg)
 <h2>✨ Welcome to my page, and thanks for passing by 😃✨</h2>
 
 <h3>I am Paola, full stack developer from Venezuela, currently working and living in the United States.</h3>
