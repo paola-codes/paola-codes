@@ -41,9 +41,13 @@
 
 <h2>📮 Contact Me</h2>
 
-<h3>📧 paola.sanchezv98@gmail.com</h3>
+![Gmail](https://img.shields.io/badge/paola.sanchezv98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<a href="https://www.linkedin.com/in/paola-sanchez98/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/paola-sanchez98/">![LinkedIn](https://img.shields.io/badge/paola--sanchez98-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<a href="https://www.instagram.com/paola_codes/">![Instagram](https://img.shields.io/badge/paola__codes-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+<a>![TikTok](https://img.shields.io/badge/paola__codes-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
 
 <h2>❤️ Thank you!</h2>
 
