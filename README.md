@@ -2,7 +2,7 @@
 
 <a href="https://paolacodes.herokuapp.com/"/>![Header](https://github.com/paola-codes/paola-codes/blob/main/Github-Banner.png)</a>
 
-<h1>👩‍💻 Hello!</h1> 
+<h1>👩‍💻 Hello</h1> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you!)](https://git.io/typing-svg)
 <h2>✨ Welcome to my page, and thanks for passing by 😃✨</h2>
