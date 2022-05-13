@@ -8,7 +8,7 @@
 <h2>✨ Welcome to my page, and thanks for passing by 😃✨</h2>
 
 <h3>I am Paola, front-end developer from Venezuela, currently working and living in the United States.</h3>
-<h3>I work as a coding mentor in 4Geeks Academy, and I am also a freelance web developer.</h3>
+<h3>I work as a coding mentor in 4Geeks Academy, and I am also a developer intern at MakeitMVP.</h3>
 
 <h2>🌺 About Me</h2>
 
